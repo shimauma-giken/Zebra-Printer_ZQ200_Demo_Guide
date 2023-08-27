@@ -93,9 +93,9 @@
 
 ***参考資料***
 
-ZebraDesigner3 Essential_紹介資料_20210915.pptx
-ZebraDesigner3 Professional_紹介資料_20220520.pptx
-ZQ2-3-6 Plusまとめ紹介資料 - 20221026.pptx
+ZebraDesigner3 Essential_紹介資料_20210915.pptx  
+ZebraDesigner3 Professional_紹介資料_20220520.pptx  
+ZQ2-3-6 Plusまとめ紹介資料 - 20221026.pptx  
 
 
 </span>
